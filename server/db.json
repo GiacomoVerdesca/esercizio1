@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "label": "Fabio",
+      "gender": "M",
+      "age": 20
+    },
+    {
+      "gender": "F",
+      "label": "Marianna",
+      "id": 2,
+      "age": 21
+    },
+    {
+      "label": "Giacomo",
+      "age": "19",
+      "gender": "M",
+      "id": 3
+    }
+  ]
+}
