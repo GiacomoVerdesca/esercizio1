@@ -6,6 +6,7 @@ import { User } from './model/user';
   selector: 'app-root',
   template: `
   <h1>Titolo</h1>
+  <h1>Scemo chi legge</h1>
     <div class="container">
       <!-- -----Form------ -->
       <form
