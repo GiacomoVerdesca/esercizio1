@@ -5,6 +5,7 @@ import { User } from './model/user';
 @Component({
   selector: 'app-root',
   template: `
+  <h1>Titolo</h1>
     <div class="container">
       <!-- -----Form------ -->
       <form
